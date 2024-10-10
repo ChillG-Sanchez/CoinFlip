@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CoinFlip</string>
+    <string name="heads">Heads</string>
+    <string name="flips_0">Flips: 0</string>
+    <string name="silver_20">silver_20</string>
+    <string name="tails">Tails</string>
+    <string name="fordulatok_sz_ma_0">Fordulatok száma: 0</string>
+    <string name="fej">Fej</string>
+    <string name="r_s">Írás</string>
+</resources>
